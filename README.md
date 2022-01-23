@@ -14,11 +14,24 @@ These box-and-whisker plots shows the same analysis but in a different view. Add
 
 | Ride Count Data | Ride Fare Data | Driver Count Data|
 | :---:  | :---: | :---:| 
-| <img src = "analysis/Fig2.png" width = 300> | <img src = "analysis/Fig3.png" width = 300> | <img src = "analysis/Fig4.png" width = 300> |
+| <img src = "analysis/Fig2.png" width = 350> | <img src = "analysis/Fig3.png" width = 350> | <img src = "analysis/Fig4.png" width = 350> |
 
 
+The following pie chart shows the percent breakdown of each category by city type. In summary, Urban city type has the most drivers, the most ride, and generate the most revenue.
 
-
-| % of Total Fares by City | Ride Fare Data | Driver Count Data|
+| % of Total Rides by City | % of Total Fares by City | % of Total Drivers by City|
 | :---:  | :---: | :---:| 
-| <img src = "analysis/Fig2.png" width = 300> | <img src = "analysis/Fig3.png" width = 300> | <img src = "analysis/Fig4.png" width = 300> |
+| <img src = "analysis/Fig6.png" width = 350> | <img src = "analysis/Fig5.png" width = 350> | <img src = "analysis/Fig7.png" width = 350> |
+
+When looking at the weekly timeframe from January through April, it is clear that Urban cities generate the most revenue at all times. Also, during this stretch of the data, at no point did any of the city type overtake or undertake another. 
+
+<img src = "analysis/PyBer_fare_summary.png" >
+
+
+## Summary and considerations
+The data shows that Urban city type dominated the market. This is not a surprise as more people live in urban areas than rural. Based on the data, these would be some recommendations for PyBer:
+   - Continue to invest in Urban cities as they generate the most fare
+   - Increase suburban drivers to meet demands
+   - Explore possible solutions in bringing down fare cost for suburban and rural rides
+
+To further understand the data more, it would be wise of PyBer to explore the net profit of each city type. This would help to decide whether rural cities are worth the invested time and resource. Another thing to factor in is the possibility of rural residents not using ride share because the cost is too high. A survey on this would yield some possible explanation. 
